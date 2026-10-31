@@ -1,1 +1,1 @@
-# stepic_auvto_test_course1
+# stepic_auvto_test_course
